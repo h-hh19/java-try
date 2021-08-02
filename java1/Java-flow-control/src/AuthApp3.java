@@ -9,7 +9,7 @@ public class AuthApp3 {
 				{"3F","38"},
 				{"3M", "377"}
 				
-			};
+			};			
 		
 		String inputId = args[0];
 		String inputPass = args[1];

@@ -17,6 +17,8 @@ public class OthersOOP {
 		f2.write("Hello");
 		f2.write("java");
 		f2.close();
+		
+		
 
 	}
 
